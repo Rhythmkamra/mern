@@ -11,3 +11,4 @@ console.log(valnum);
 // num    => string
 // 33abhyu => NaN
 // true => value =1 false = 0
+// empty strings and bool = false and rev is true
