@@ -6,6 +6,7 @@ let name = "rhythm"
 let age = 20
 let login = true
 
+
 // null => its a value in  javascript representation of a khali value
 //  undefined => not defined abhi value define nhi ki
 // symbol => unique ness ke liye use hota hai
@@ -13,6 +14,7 @@ let login = true
 
 
 // object 
+
 
 console.log(typeof "riri")
 
